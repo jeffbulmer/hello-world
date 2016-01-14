@@ -1,1 +1,9 @@
-This is now a text file about a hat. This is the story of a hat of my ancestors. I really like this hat, but I am not myself. You are me, but they are not he. Is she?
+git status
+
+
+
+git status
+$ git status
+[A[Bgit commite
+git commit
+git status
