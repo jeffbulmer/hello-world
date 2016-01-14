@@ -1,0 +1,9 @@
+git status
+
+
+
+git status
+$ git status
+[A[Bgit commite
+git commit
+git status
